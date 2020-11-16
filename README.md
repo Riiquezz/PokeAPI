@@ -33,5 +33,4 @@ Digite `npm install` depois `npm start` e a aplicação irá abrir no seu navega
 
 + Baseado neste [Design](https://www.behance.net/gallery/95727849/Pokdex-App).
 + [PokeAPI](https://pokeapi.co/) para realização das requisições e desenvolvimento da aplicação.
-+ Imagens pegas daqui [Github repo](https://pokeapi.co/).
 
